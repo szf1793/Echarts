@@ -5,7 +5,7 @@ import java.util.List;
 /**
 * @Title:XAxis 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:05:26
  */
 public class XAxis {

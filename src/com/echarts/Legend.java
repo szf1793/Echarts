@@ -6,7 +6,7 @@ import java.util.List;
 /**
 * @Title:Legend 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:03:58
  */
 public class Legend {

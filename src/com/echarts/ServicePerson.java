@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:ServicePerson 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:04:59
  */
 public class ServicePerson extends LineDto {

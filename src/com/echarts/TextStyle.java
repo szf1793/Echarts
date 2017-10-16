@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:TextStyle 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-26上午9:42:05
  */
 public class TextStyle {

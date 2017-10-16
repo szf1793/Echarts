@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:MarkLine 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:04:23
  */
 public class MarkLine {

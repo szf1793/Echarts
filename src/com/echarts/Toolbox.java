@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:Toolbox 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:05:15
  */
 public class Toolbox {

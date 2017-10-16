@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:DataZoom 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:03:35
  */
 public class DataZoom {

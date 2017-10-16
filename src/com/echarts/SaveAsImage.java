@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:SaveAsImage 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:04:48
  */
 public class SaveAsImage {

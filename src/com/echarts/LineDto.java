@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:LineDto 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:04:08
  */
 public class LineDto {

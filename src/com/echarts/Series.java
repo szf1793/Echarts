@@ -5,7 +5,7 @@ import java.util.List;
 /**
 * @Title:Series 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:04:52
  */
 public class Series {

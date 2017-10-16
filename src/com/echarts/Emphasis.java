@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:Emphasis 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2017-07-20 下午15:23:42
  */
 public class Emphasis {

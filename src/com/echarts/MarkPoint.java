@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:MarkPoint 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:04:27
  */
 public class MarkPoint {

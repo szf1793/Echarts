@@ -3,7 +3,7 @@ package com.echarts;
 /**
 * @Title:AreaStyle 
 * @Description: 
-* @author Shen Zhenfei
+* @author sxt
 * @date 2016-10-25上午10:02:52
  */
 public class AreaStyle {
